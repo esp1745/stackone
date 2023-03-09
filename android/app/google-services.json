@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "726744251455",
+    "project_id": "stack-13b09",
+    "storage_bucket": "stack-13b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726744251455:android:d3c63138951dcf4591cc8a",
+        "android_client_info": {
+          "package_name": "com.mycompany.stackone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726744251455-ep4no0rblulfntrf1704h9o5gn524eb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPi79utUXsR8qZWQMk_MiC2pFqR5J1RqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726744251455-ep4no0rblulfntrf1704h9o5gn524eb2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726744251455-gb7nre8jg909vfc31lq4g0s08347mk8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.stackone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
